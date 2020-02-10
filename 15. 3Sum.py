@@ -9,9 +9,8 @@ from typing import List
 
 class Solution:
     """
-
-
-
+    O(n ** 2) Solution
+    use twoSum solution to solve threeSum problem
     """
 
     def threeSum(self, nums: List[int]) -> List[List[int]]:
