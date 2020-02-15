@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18. 4Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24. Swap Nodes in Pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27. Remove Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28. Implement strStr().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra.../01. Number of substrings with count fo each character as k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra.../02. Count Inversions of size three in a given array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +203,7 @@
       <workItem from="1581418777688" duration="4756000" />
       <workItem from="1581514803102" duration="4139000" />
       <workItem from="1581569608909" duration="12000" />
-      <workItem from="1581766251762" duration="6195000" />
+      <workItem from="1581766251762" duration="6518000" />
     </task>
     <servers />
   </component>
@@ -221,22 +215,22 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="903" y="326" width="424" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1581569618942" />
-    <state width="1371" height="142" key="GridCell.Tab.0.bottom" timestamp="1581772208500">
+    <state width="1793" height="204" key="GridCell.Tab.0.bottom" timestamp="1581773089252">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1371" height="142" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208500" />
-    <state width="1371" height="142" key="GridCell.Tab.0.center" timestamp="1581772208499">
+    <state width="1793" height="204" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1581773089252" />
+    <state width="1793" height="204" key="GridCell.Tab.0.center" timestamp="1581773089252">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1371" height="142" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208499" />
-    <state width="1371" height="142" key="GridCell.Tab.0.left" timestamp="1581772208499">
+    <state width="1793" height="204" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1581773089252" />
+    <state width="1793" height="204" key="GridCell.Tab.0.left" timestamp="1581773089251">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1371" height="142" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208499" />
-    <state width="1371" height="142" key="GridCell.Tab.0.right" timestamp="1581772208500">
+    <state width="1793" height="204" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1581773089251" />
+    <state width="1793" height="204" key="GridCell.Tab.0.right" timestamp="1581773089252">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1371" height="142" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208500" />
+    <state width="1793" height="204" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1581773089252" />
     <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog" timestamp="1581515131076">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
