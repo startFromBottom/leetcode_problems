@@ -2,14 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/31. Next Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18. 4Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. Swap Nodes in Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27. Remove Element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. Implement strStr().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra.../01. Number of substrings with count fo each character as k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extra.../02. Count Inversions of size three in a given array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22. Generate Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/22. Generate Parentheses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,9 +51,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.22. Generate Parentheses">
-    <configuration name="14. Longest Common Prefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.27. Remove Element">
+    <configuration name="02. Count Inversions of size three in a given array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,56 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/extra..." />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Longest Common Prefix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20. Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20. Valid Parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="21. Merge Two Sorted Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extra.../02. Count Inversions of size three in a given array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="24. Swap Nodes in Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +111,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24. Swap Nodes in Pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="27. Remove Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27. Remove Element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="28. Implement strStr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28. Implement strStr().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.27. Remove Element" />
+        <item itemvalue="Python.28. Implement strStr()" />
+        <item itemvalue="Python.24. Swap Nodes in Pairs" />
+        <item itemvalue="Python.02. Count Inversions of size three in a given array" />
         <item itemvalue="Python.22. Generate Parentheses" />
-        <item itemvalue="Python.21. Merge Two Sorted Lists" />
-        <item itemvalue="Python.20. Valid Parentheses" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.14. Longest Common Prefix" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +206,10 @@
       <workItem from="1581329784199" duration="6179000" />
       <workItem from="1581405761602" duration="6135000" />
       <workItem from="1581412327155" duration="48000" />
-      <workItem from="1581418777688" duration="4716000" />
+      <workItem from="1581418777688" duration="4756000" />
+      <workItem from="1581514803102" duration="4139000" />
+      <workItem from="1581569608909" duration="12000" />
+      <workItem from="1581766251762" duration="6195000" />
     </task>
     <servers />
   </component>
@@ -194,26 +217,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1438" height="151" key="GridCell.Tab.0.bottom" timestamp="1581412241204">
+    <state x="903" y="326" width="424" height="488" key="FileChooserDialogImpl" timestamp="1581569618942">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1438" height="151" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1581412241204" />
-    <state width="1438" height="151" key="GridCell.Tab.0.center" timestamp="1581412241203">
+    <state x="903" y="326" width="424" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1581569618942" />
+    <state width="1371" height="142" key="GridCell.Tab.0.bottom" timestamp="1581772208500">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1438" height="151" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1581412241203" />
-    <state width="1438" height="151" key="GridCell.Tab.0.left" timestamp="1581412241202">
+    <state width="1371" height="142" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208500" />
+    <state width="1371" height="142" key="GridCell.Tab.0.center" timestamp="1581772208499">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1438" height="151" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1581412241202" />
-    <state width="1438" height="151" key="GridCell.Tab.0.right" timestamp="1581412241204">
+    <state width="1371" height="142" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208499" />
+    <state width="1371" height="142" key="GridCell.Tab.0.left" timestamp="1581772208499">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1438" height="151" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1581412241204" />
-    <state x="515" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1581418778466">
+    <state width="1371" height="142" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208499" />
+    <state width="1371" height="142" key="GridCell.Tab.0.right" timestamp="1581772208500">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state x="515" y="363" key="com.intellij.ide.util.TipDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1581418778466" />
+    <state width="1371" height="142" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1581772208500" />
+    <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog" timestamp="1581515131076">
+      <screen x="71" y="30" width="1849" height="1050" />
+    </state>
+    <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1581515131075" />
+    <state x="515" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1581569609084">
+      <screen x="71" y="30" width="1849" height="1050" />
+    </state>
+    <state x="515" y="363" key="com.intellij.ide.util.TipDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1581569609084" />
     <state x="781" y="250" width="834" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581135758395">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
@@ -225,13 +256,17 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_problems$08__String_to_Integer__atoi_.coverage" NAME="08. String to Integer (atoi) Coverage Results" MODIFIED="1581092160580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_problems$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1581408875971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_problems$22__Generate_Parentheses.coverage" NAME="22. Generate Parentheses Coverage Results" MODIFIED="1581419858600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_problems$07__Reverse_Integer.coverage" NAME="07. Reverse Integer Coverage Results" MODIFIED="1581082961790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_problems$21__Merge_Two_Sorted_Lists.coverage" NAME="21. Merge Two Sorted Lists Coverage Results" MODIFIED="1581411269010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_problems$14__Longest_Common_Prefix.coverage" NAME="14. Longest Common Prefix Coverage Results" MODIFIED="1581335478736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1581141904647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$20__Valid_Parentheses.coverage" NAME="20. Valid Parentheses Coverage Results" MODIFIED="1581408875971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$22__Generate_Parentheses.coverage" NAME="22. Generate Parentheses Coverage Results" MODIFIED="1581419858600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$27__Remove_Element.coverage" NAME="27. Remove Element Coverage Results" MODIFIED="1581772208490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$07__Reverse_Integer.coverage" NAME="07. Reverse Integer Coverage Results" MODIFIED="1581082961790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$02__Count_Inversions_of_size_three_in_a_given_array.coverage" NAME="02. Count Inversions of size three in a given array Coverage Results" MODIFIED="1581516497162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/extra..." />
     <SUITE FILE_PATH="coverage/leetcode_problems$temp.coverage" NAME="temp Coverage Results" MODIFIED="1581339173254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_problems$practice.coverage" NAME="practice Coverage Results" MODIFIED="1581139392939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_problems$practice2.coverage" NAME="practice2 Coverage Results" MODIFIED="1581141904647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$24__Swap_Nodes_in_Pairs.coverage" NAME="24. Swap Nodes in Pairs Coverage Results" MODIFIED="1581767905897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_problems$28__Implement_strStr__.coverage" NAME="28. Implement strStr() Coverage Results" MODIFIED="1581771550130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
