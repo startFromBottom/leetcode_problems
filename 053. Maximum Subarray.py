@@ -7,11 +7,12 @@ submission detail : https://leetcode.com/submissions/detail/303831151/
 
 from typing import List
 
+
 class Solution:
     """
     Time Complexity : O(n)
-
     """
+
     def maxSubArray(self, nums: List[int]) -> int:
         if len(nums) == 0:
             return 0
