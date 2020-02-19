@@ -208,6 +208,7 @@
       <workItem from="1581924647463" duration="449000" />
       <workItem from="1581938281016" duration="796000" />
       <workItem from="1581945031473" duration="1220000" />
+      <workItem from="1582032833392" duration="843000" />
     </task>
     <servers />
   </component>
@@ -239,10 +240,10 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1581515131075" />
-    <state x="515" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1582032833784">
+    <state x="515" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1582119938744">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state x="515" y="363" key="com.intellij.ide.util.TipDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1582032833784" />
+    <state x="515" y="363" key="com.intellij.ide.util.TipDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1582119938744" />
     <state x="781" y="250" width="834" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581135758395">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
