@@ -22,7 +22,10 @@ class Solution:
         """
         return 0, len(nums) - 1, -1
 
-    def upper_bound(self, nums: List[int]) -> List[int]:
+    def upper_bound(self, nums: List[int], target: int) -> List[int]:
+        """
+        find last position of element
+        """
         lo, hi, ans = self.set_initial_value(nums)
         while lo <= hi:
             mid = lo + (hi - lo) // 2
@@ -35,7 +38,10 @@ class Solution:
                 lo = mid + 1
         return ans
 
-    def lower_bound(self, nums: List[int]) -> List[int]:
+    def lower_bound(self, nums: List[int], target: int) -> List[int]:
+        """
+        find first position of element
+        """
         lo, hi, ans = self.set_initial_value(nums)
         while lo <= hi:
             mid = lo + (hi - lo) // 2
@@ -48,5 +54,5 @@ class Solution:
                 lo = mid + 1
         return ans
 
-     def searchRange(self, nums: List[int], target: int) -> List[int]:
+    def searchRange(self, nums: List[int], target: int) -> List[List[int]]:
         return [self.lower_bound(nums, target), self.upper_bound(nums, target)]          
