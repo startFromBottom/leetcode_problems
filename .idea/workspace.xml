@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/061. Rotate List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +150,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/049. Group Anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,22 +223,22 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="903" y="326" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1583126792535" />
-    <state width="1470" height="188" key="GridCell.Tab.0.bottom" timestamp="1583139598241">
+    <state width="1404" height="188" key="GridCell.Tab.0.bottom" timestamp="1583141814868">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1470" height="188" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1583139598241" />
-    <state width="1470" height="188" key="GridCell.Tab.0.center" timestamp="1583139598240">
+    <state width="1404" height="188" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1583141814868" />
+    <state width="1404" height="188" key="GridCell.Tab.0.center" timestamp="1583141814867">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1470" height="188" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1583139598240" />
-    <state width="1470" height="188" key="GridCell.Tab.0.left" timestamp="1583139598240">
+    <state width="1404" height="188" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1583141814867" />
+    <state width="1404" height="188" key="GridCell.Tab.0.left" timestamp="1583141814866">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1470" height="188" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1583139598240" />
-    <state width="1470" height="188" key="GridCell.Tab.0.right" timestamp="1583139598240">
+    <state width="1404" height="188" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1583141814866" />
+    <state width="1404" height="188" key="GridCell.Tab.0.right" timestamp="1583141814867">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1470" height="188" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1583139598240" />
+    <state width="1404" height="188" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1583141814867" />
     <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog" timestamp="1581515131076">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
