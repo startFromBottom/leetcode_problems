@@ -1,6 +1,14 @@
 from collections import deque
 from typing import List
 
+"""
+
+problem link : https://leetcode.com/problems/word-search/
+submission detail : https://leetcode.com/submissions/detail/310470728/
+
+
+"""
+
 
 class Solution:
     """
