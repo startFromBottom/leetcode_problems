@@ -43,7 +43,7 @@ class Solution:
 
         # delete outside rows
         matrix = matrix[1:-1]
-        # delete outsdie rows
+        # delete outside cols
         for i, v in enumerate(matrix):
             matrix[i] = matrix[i][1:-1]
         return matrix
