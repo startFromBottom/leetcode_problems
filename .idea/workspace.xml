@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/047. Permutations 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,10 +213,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="903" y="326" width="743" height="488" key="FileChooserDialogImpl" timestamp="1583925030094">
+    <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl" timestamp="1584103944230">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state x="903" y="326" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1583925030094" />
+    <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1584103944230" />
     <state width="1533" height="510" key="GridCell.Tab.0.bottom" timestamp="1583846094445">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
