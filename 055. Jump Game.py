@@ -22,7 +22,7 @@ class Solution1:
         best = 0  # What is the furthest index we can reach so far?
         for i, v in enumerate(nums[:-1]):
             if best >= i:
-                best = max(best, i + v)
+                best = max(best, i + v) # Only update best if we can reach this index
             if best >= len(nums) - 1:  # If best is at or passed target, we're done
                 return True
         return len(nums) == 1

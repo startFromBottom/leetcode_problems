@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/055. Jump Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weekly Contest/180th/1380. Lucky Numbers in a Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weekly Contest/180th/1381. Design a Stack With Increment Operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weekly Contest/180th/1382. Balance a Binary Search Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/055. Jump Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/055. Jump Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +48,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Weekly Contest/180th" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.033. Search in Rotated Sorted Array">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Weekly Contest/180th" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.temp (1)">
     <configuration name="033. Search in Rotated Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,8 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.033. Search in Rotated Sorted Array" />
         <item itemvalue="Python.temp (1)" />
+        <item itemvalue="Python.033. Search in Rotated Sorted Array" />
         <item itemvalue="Python.078. Subsets" />
         <item itemvalue="Python.079. Word Search" />
         <item itemvalue="Python.temp" />
@@ -215,26 +223,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl" timestamp="1584103944230">
+    <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl" timestamp="1584248293193">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1584103944230" />
-    <state width="1533" height="193" key="GridCell.Tab.0.bottom" timestamp="1584173478704">
+    <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1584248293193" />
+    <state width="1636" height="192" key="GridCell.Tab.0.bottom" timestamp="1584242748008">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1533" height="193" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1584173478704" />
-    <state width="1533" height="193" key="GridCell.Tab.0.center" timestamp="1584173478703">
+    <state width="1636" height="192" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748008" />
+    <state width="1636" height="192" key="GridCell.Tab.0.center" timestamp="1584242748007">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1533" height="193" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1584173478703" />
-    <state width="1533" height="193" key="GridCell.Tab.0.left" timestamp="1584173478702">
+    <state width="1636" height="192" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
+    <state width="1636" height="192" key="GridCell.Tab.0.left" timestamp="1584242748007">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1533" height="193" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1584173478702" />
-    <state width="1533" height="193" key="GridCell.Tab.0.right" timestamp="1584173478703">
+    <state width="1636" height="192" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
+    <state width="1636" height="192" key="GridCell.Tab.0.right" timestamp="1584242748007">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state width="1533" height="193" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1584173478703" />
+    <state width="1636" height="192" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
     <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog" timestamp="1581515131076">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
@@ -243,10 +251,10 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="652" y="216" width="1037" height="734" key="SettingsEditor/71.30.1849.1050@71.30.1849.1050" timestamp="1583491808632" />
-    <state x="515" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1584100462795">
+    <state x="515" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1584239308702">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
-    <state x="515" y="363" key="com.intellij.ide.util.TipDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1584100462795" />
+    <state x="515" y="363" key="com.intellij.ide.util.TipDialog/71.30.1849.1050@71.30.1849.1050" timestamp="1584239308702" />
     <state x="781" y="250" width="834" height="643" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581135758395">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
