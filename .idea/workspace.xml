@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Weekly Contest/181th/1389. Create Target Array in the Given Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weekly Contest/181th/1390. Four Divisors.py" afterDir="false" />
+    <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="a">
+      <change afterPath="$PROJECT_DIR$/Weekly Contest/181th/1391. Check if There is a Valid Path in a Grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <recent name="$PROJECT_DIR$/Weekly Contest/180th" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.temp (1)">
+  <component name="RunManager" selected="Python.1392. Longest Happy Prefix">
     <configuration name="033. Search in Rotated Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +118,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1392. Longest Happy Prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weekly Contest/181th" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weekly Contest/181th/1392. Longest Happy Prefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="temp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,35 +160,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/049. Group Anagrams.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1392. Longest Happy Prefix" />
         <item itemvalue="Python.temp (1)" />
         <item itemvalue="Python.033. Search in Rotated Sorted Array" />
         <item itemvalue="Python.078. Subsets" />
         <item itemvalue="Python.079. Word Search" />
-        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -222,25 +220,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="50" key="CommitChangelistDialog2" timestamp="1584874915646">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="0" y="50" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1584874915646" />
     <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl" timestamp="1584248293193">
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1584248293193" />
-    <state width="1636" height="192" key="GridCell.Tab.0.bottom" timestamp="1584242748008">
-      <screen x="71" y="30" width="1849" height="1050" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom" timestamp="1584874921747">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1584874921747" />
     <state width="1636" height="192" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748008" />
-    <state width="1636" height="192" key="GridCell.Tab.0.center" timestamp="1584242748007">
-      <screen x="71" y="30" width="1849" height="1050" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center" timestamp="1584874921746">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1584874921746" />
     <state width="1636" height="192" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
-    <state width="1636" height="192" key="GridCell.Tab.0.left" timestamp="1584242748007">
-      <screen x="71" y="30" width="1849" height="1050" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left" timestamp="1584874921745">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1584874921745" />
     <state width="1636" height="192" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
-    <state width="1636" height="192" key="GridCell.Tab.0.right" timestamp="1584242748007">
-      <screen x="71" y="30" width="1849" height="1050" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right" timestamp="1584874921746">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1584874921746" />
     <state width="1636" height="192" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
     <state x="1048" y="325" width="587" height="590" key="RollbackChangesDialog" timestamp="1581515131076">
       <screen x="71" y="30" width="1849" height="1050" />
