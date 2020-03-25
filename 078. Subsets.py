@@ -137,3 +137,25 @@ class DFSSolution:
 
         dfs_helper(grow_index=0, path=[], all_subsets=solution)
         return solution
+
+class MySolution2:
+    """
+
+    simple recursion
+
+    """
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        if not nums:
+            return []
+        N = len(nums)
+        ans = []
+        def recursion(case: List[int], idx: int):
+            if idx == N:
+                ans.append(case)
+                return
+            recursion(case, idx + 1)
+            recursion(case + [nums[idx]], idx + 1)
+
+        recursion([], 0)
+
+        return ans
