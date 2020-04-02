@@ -23,5 +23,3 @@ class Solution:
         for i in range(1, len(nums)):
             ans = ans ^ nums[i] # ^ : xor 연산
         return ans
-
-print(2 ^ 0)
