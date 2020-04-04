@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="a">
-      <change afterPath="$PROJECT_DIR$/30-day-leetcoding-challenge/Single Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -299,5 +298,9 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="899" y="309" width="932" height="526" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/71.30.1849.1050@71.30.1849.1050" timestamp="1581092128649" />
+    <state x="657" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1585828113486">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="657" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1585828113486" />
   </component>
 </project>
