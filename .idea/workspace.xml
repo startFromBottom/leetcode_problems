@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/Weekly Contest/180th" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.136. Single Number ">
+  <component name="RunManager" selected="Python.033. Search in Rotated Sorted Array">
     <configuration name="033. Search in Rotated Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,7 +159,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.136. Single Number " />
         <item itemvalue="Python.1392. Longest Happy Prefix" />
         <item itemvalue="Python.temp (1)" />
         <item itemvalue="Python.033. Search in Rotated Sorted Array" />
@@ -225,35 +224,35 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="655" y="138" width="743" height="488" key="FileChooserDialogImpl/71.30.1849.1050@71.30.1849.1050" timestamp="1584248293193" />
-    <state width="998" height="190" key="GridCell.Tab.0.bottom" timestamp="1586086727540">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="998" height="190" key="GridCell.Tab.0.bottom" timestamp="1586088043503">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584878930415" />
-    <state width="1283" height="190" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585749610043" />
+    <state width="998" height="190" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586088043503" />
     <state width="1283" height="190" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1585749539012" />
     <state width="998" height="190" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586086727540" />
     <state width="1636" height="192" key="GridCell.Tab.0.bottom/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748008" />
-    <state width="998" height="190" key="GridCell.Tab.0.center" timestamp="1586086727539">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="998" height="190" key="GridCell.Tab.0.center" timestamp="1586088043502">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584878930414" />
-    <state width="1283" height="190" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585749610042" />
+    <state width="998" height="190" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1586088043502" />
     <state width="1283" height="190" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1585749539011" />
     <state width="998" height="190" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586086727539" />
     <state width="1636" height="192" key="GridCell.Tab.0.center/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
-    <state width="998" height="190" key="GridCell.Tab.0.left" timestamp="1586086727538">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="998" height="190" key="GridCell.Tab.0.left" timestamp="1586088043501">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584878930402" />
-    <state width="1283" height="190" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585749610042" />
+    <state width="998" height="190" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1586088043501" />
     <state width="1283" height="190" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1585749539011" />
     <state width="998" height="190" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586086727538" />
     <state width="1636" height="192" key="GridCell.Tab.0.left/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
-    <state width="998" height="190" key="GridCell.Tab.0.right" timestamp="1586086727540">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="998" height="190" key="GridCell.Tab.0.right" timestamp="1586088043503">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584878930415" />
-    <state width="1283" height="190" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585749610043" />
+    <state width="998" height="190" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1586088043503" />
     <state width="1283" height="190" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1585749539012" />
     <state width="998" height="190" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586086727540" />
     <state width="1636" height="192" key="GridCell.Tab.0.right/71.30.1849.1050@71.30.1849.1050" timestamp="1584242748007" />
@@ -301,9 +300,9 @@
       <screen x="71" y="30" width="1849" height="1050" />
     </state>
     <state x="899" y="309" width="932" height="526" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/71.30.1849.1050@71.30.1849.1050" timestamp="1581092128649" />
-    <state x="657" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1585828113486">
+    <state x="657" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1586265637588">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="657" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1585828113486" />
+    <state x="657" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1586265637588" />
   </component>
 </project>
