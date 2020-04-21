@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61676cd2-a8e0-4267-bccd-d5110f06c4ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/30-day-leetcoding-challenge/1008. Construct Binary Search Tree from Preorder Traversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30-day-leetcoding-challenge/876. Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/30-day-leetcoding-challenge/876. Middle of the Linked List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
