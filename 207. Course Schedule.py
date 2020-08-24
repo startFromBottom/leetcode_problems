@@ -1,3 +1,10 @@
+"""
+
+problem link : https://leetcode.com/problems/course-schedule/
+
+
+"""
+
 from collections import defaultdict, deque
 from typing import List
 
